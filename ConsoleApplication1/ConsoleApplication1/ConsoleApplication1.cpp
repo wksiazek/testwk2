@@ -8,7 +8,7 @@ int main()
     std::cout << "Hello World!\n";
     int a = 1;
     int width = 11;
-    int c = 10;
+    int height = 10;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
